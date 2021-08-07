@@ -1,0 +1,4 @@
+rootProject.name = "DemoPlugin.groovy"
+include ':app'
+include ':myplugin'
+include ':testmodule'
